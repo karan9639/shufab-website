@@ -29,12 +29,12 @@ const Footer = () => {
 
           <div className="footer-section">
             <h3>CONTACT INFO</h3>
-            <p>Shufab Group of Companies</p>
+            <p>Shufab of Companies</p>
             <p>KHASRA NO 1557/949/2/1-P, 949/2/2-P VILLAGE KHANDSA</p>
             <p>BEHRAMPUR ROAD 38 KM MILE STONE DELHI JAIPUR HIGHWAY</p>
             <p>GURUGRAM HARYANA</p>
             <p>Leading manufacturer and exporter</p>
-            <p>More about the Shufab Group</p>
+            <p>More about the Shufab </p>
           </div>
         </div>
 
@@ -43,7 +43,7 @@ const Footer = () => {
         </div>
       </div>
     </footer>
-  )
-}
+  );
+};
 
-export default Footer
+export default Footer;
