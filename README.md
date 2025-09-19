@@ -1,32 +1,32 @@
-# Alpine Shoes Website
+# Shufab Shoes Website
 
-A React + Vite application replicating the Alpine Shoes website design and functionality.
+A React + Vite application replicating the Shufab Shoes website design and functionality.
 
 ## Project Structure
 
 \`\`\`
-alpine-shoes/
+Shufab-shoes/
 ├── public/
-│   └── assets/
-│       ├── AlpineLogoColour.png
-│       ├── complianceiconorange297x300150x150.png
-│       ├── DSC0587minabout.jpg
-│       ├── DSC6580about.jpg
-│       ├── DSC0579min.jpg
-│       ├── DSC0594min.jpg
-│       ├── DSC6796112.jpg
-│       └── screencapture-alpineshoes-net-2025-09-18-17_41_03.png
+│ └── assets/
+│ ├── ShufabLogoColour.png
+│ ├── complianceiconorange297x300150x150.png
+│ ├── DSC0587minabout.jpg
+│ ├── DSC6580about.jpg
+│ ├── DSC0579min.jpg
+│ ├── DSC0594min.jpg
+│ ├── DSC6796112.jpg
+│ └── screencapture-Shufabshoes-net-2025-09-18-17_41_03.png
 ├── src/
-│   ├── components/
-│   │   ├── Navbar.jsx
-│   │   ├── Hero.jsx
-│   │   ├── About.jsx
-│   │   ├── Quality.jsx
-│   │   ├── Compliance.jsx
-│   │   └── Footer.jsx
-│   ├── App.jsx
-│   ├── main.jsx
-│   └── styles.css
+│ ├── components/
+│ │ ├── Navbar.jsx
+│ │ ├── Hero.jsx
+│ │ ├── About.jsx
+│ │ ├── Quality.jsx
+│ │ ├── Compliance.jsx
+│ │ └── Footer.jsx
+│ ├── App.jsx
+│ ├── main.jsx
+│ └── styles.css
 ├── index.html
 ├── package.json
 ├── vite.config.js

@@ -9,7 +9,7 @@ const Compliance = () => {
           </div>
           <div className="compliance-text">
             <p>
-              Like all other companies that are a part of the Alpine Group, Alpine Shoes also strictly conforms to all
+              Like all other companies that are a part of the Shufab Group, Shufab Shoes also strictly conforms to all
               necessary industry compliance codes.
             </p>
             <p>

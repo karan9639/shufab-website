@@ -5,9 +5,9 @@ const Footer = () => {
         <div className="footer-content">
           <div className="footer-section">
             <div className="footer-logo">
-              <img src="/assets/AlpineLogoColour.jpg" alt="Alpine Shoes" />
+              <img src="/assets/AlpineLogoColour.jpg" alt="Shufab Shoes" />
             </div>
-            <p>© 2024 Alpine Shoes. All rights reserved.</p>
+            <p>© 2024 Shufab Shoes. All rights reserved.</p>
             <p>Established 1986</p>
           </div>
 
@@ -29,9 +29,12 @@ const Footer = () => {
 
           <div className="footer-section">
             <h3>CONTACT INFO</h3>
-            <p>Alpine Group of Companies</p>
+            <p>Shufab Group of Companies</p>
+            <p>KHASRA NO 1557/949/2/1-P, 949/2/2-P VILLAGE KHANDSA</p>
+            <p>BEHRAMPUR ROAD 38 KM MILE STONE DELHI JAIPUR HIGHWAY</p>
+            <p>GURUGRAM HARYANA</p>
             <p>Leading manufacturer and exporter</p>
-            <p>More about the Alpine Group</p>
+            <p>More about the Shufab Group</p>
           </div>
         </div>
 

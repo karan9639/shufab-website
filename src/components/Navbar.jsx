@@ -4,7 +4,7 @@ const Navbar = () => {
       <div className="container">
         <div className="nav-container">
           <div className="nav-logo">
-            <img src="/assets/AlpineLogoColour.jpg" alt="Alpine Shoes" />
+            <img src="/assets/AlpineLogoColour.jpg" alt="Shufab Shoes" />
           </div>
           <ul className="nav-menu">
             <li>
