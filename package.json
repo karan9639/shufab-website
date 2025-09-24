@@ -1,5 +1,5 @@
 {
-  "name": "Shufab-shoes",
+  "name": "shufab-shoes",
   "private": true,
   "version": "0.0.0",
   "type": "module",
@@ -10,25 +10,31 @@
     "preview": "vite preview"
   },
   "dependencies": {
+    "@vercel/analytics": "1.5.0",
     "class-variance-authority": "0.7.1",
     "clsx": "2.1.1",
+    "geist": "1.5.1",
     "lucide-react": "0.544.0",
     "next": "15.5.3",
+    "path": "0.12.7",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
     "tailwind-merge": "3.3.1",
     "tailwindcss-animate": "1.0.7"
   },
   "devDependencies": {
+    "@tailwindcss/postcss": "^4.1.13",
     "@types/node": "24.5.2",
     "@types/react": "^18.2.43",
     "@types/react-dom": "^18.2.17",
     "@vitejs/plugin-react": "^4.2.1",
+    "autoprefixer": "^10.4.21",
     "eslint": "^8.55.0",
     "eslint-plugin-react": "^7.33.2",
     "eslint-plugin-react-hooks": "^4.6.0",
     "eslint-plugin-react-refresh": "^0.4.5",
-    "postcss": "8.5.6",
+    "postcss": "^8.5.6",
+    "tailwindcss": "^4.1.13",
     "typescript": "5.9.2",
     "vite": "^5.0.8"
   }
