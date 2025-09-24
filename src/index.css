@@ -1,11 +1,8 @@
 /* src/index.css */
-@import "tailwindcss";
-/* Make dark mode class-based (optional, matches your .dark rules) */
-@custom-variant dark (&:where(.dark, .dark *));
-
-/* Import Google Fonts */
 @import url("https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&family=Manrope:wght@300;400;500;600;700&display=swap");
+@import "tailwindcss";
 
+@custom-variant dark (&:where(.dark, .dark *));
 /* Your design tokens as plain CSS vars */
 :root {
   --background: 0 0% 100%;
